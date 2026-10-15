@@ -1,0 +1,15 @@
+C:\Users\0\Desktop\3123123123\lab3\func\bin\Debug\net8.0\func.exe
+C:\Users\0\Desktop\3123123123\lab3\func\bin\Debug\net8.0\func.deps.json
+C:\Users\0\Desktop\3123123123\lab3\func\bin\Debug\net8.0\func.runtimeconfig.json
+C:\Users\0\Desktop\3123123123\lab3\func\bin\Debug\net8.0\func.dll
+C:\Users\0\Desktop\3123123123\lab3\func\bin\Debug\net8.0\func.pdb
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.AssemblyInfo.cs
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.sourcelink.json
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.dll
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\refint\func.dll
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.pdb
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\func.genruntimeconfig.cache
+C:\Users\0\Desktop\3123123123\lab3\func\obj\Debug\net8.0\ref\func.dll
